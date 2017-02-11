@@ -10,3 +10,7 @@ Just trying to dimensionality reduce ./data/pmd-training.csv from 70D to 2D, min
  - `numpy`
  - `pandas`
 
+# Resources
+ - [useful video tutorial][1]
+ 
+ [1]: https://www.youtube.com/watch?v=yQsOFWqpjkE&t=323s
