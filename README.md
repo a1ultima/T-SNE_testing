@@ -12,5 +12,7 @@ Just trying to dimensionality reduce ./data/pmd-training.csv from 70D to 2D, min
 
 # Resources
  - [useful video tutorial][1]
+ - [useful GitHub repo][2]
  
  [1]: https://www.youtube.com/watch?v=yQsOFWqpjkE&t=323s
+ [2]: https://github.com/llSourcell/visualize_dataset_demo
